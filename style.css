@@ -1,0 +1,23 @@
+body {
+    background-color: #2c2f38;
+}
+
+.title {
+    font-size: 4rem;
+    color: #40d1ac;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.container {
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+img {
+    width: 400px;
+}
+.player {
+    text-align: center;
+}
